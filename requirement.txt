@@ -31,7 +31,7 @@ djangocms-snippet==2.1.0
 djangocms-style==2.1.0
 djangocms-text-ckeditor==3.7.0
 djangocms-video==2.1.1
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 html2text==2018.1.9
 html5lib==1.0.1
 Jinja2==2.10
